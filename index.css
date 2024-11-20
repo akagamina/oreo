@@ -66,6 +66,7 @@ layer(design.normalize);
             aspect-ratio: var(--ratio-square);
             max-inline-size: 100%;
             background-image: var(--gradient-8);
+            object-fit: cover;
         }
 
         &>button {
